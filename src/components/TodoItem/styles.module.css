@@ -1,0 +1,17 @@
+.item {
+  background: lightpink;
+  display: flex;
+  justify-content: space-between;
+  margin: 1rem 0 0;
+  padding: 0 1.5rem;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+.button {
+  background: green;
+  width: 36px;
+  height: 100%;
+}
